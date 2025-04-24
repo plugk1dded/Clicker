@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="points_0">Очков: 0</string>
+    <string name="total_clicks_0_points_per_second_0">Всего кликов: 0 | Очков в секунду: 0</string>
+    <string name="click_me">НАЖМИ НА МЕНЯ!</string>
+    <string name="upgrade_click_ncost_10">Улучшить клик\nСтоимость: 10</string>
+    <string name="upgrade_auto_ncost_50">Улучшить авто-кликер\nСтоимость: 50</string>
+    <string name="upgrade_multiplier_ncost_200">Улучшить множитель\nСтоимость: 200</string>
+</resources>
